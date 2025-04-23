@@ -53,10 +53,10 @@ To design and implement an **image-based system** that:
 
 ## 📷 Image Processing Flow
 
-1. **Image Acquisition** ![Image Acquisition](readme_img/step1.png)
-2. **Preprocessing** (contrast, brightness) ![Preprocessing](readme_img/step2.png)
+1. **Image Acquisition** ![Image Acquisition](readme_img/ImageAcquisition.png)
+2. **Preprocessing** (contrast, brightness) ![Preprocessing](readme_img/Preprocessing.png)
 3. **Segmentation** (thresholding, contour detection) ![Segmentation](readme_img/step3.png)
-4. **Feature Extraction** (leaf count, area, color analysis)
+4. **Feature Extraction** (leaf count, area, color analysis) ![Feature Extraction](readme_img/FeatureExtraction1.png)
 5. **Graphical Analysis** (growth graphs over time)
 
 ---
