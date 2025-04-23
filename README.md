@@ -99,7 +99,7 @@ To design and implement an **image-based system** that:
 
 ## 🧑‍💻 Author
 
-**Group Name**: UNIFY 
+**Group Name**: UNIFY
 **University**: Rajarata University of Sri Lanka  
 **Course**: ICT2403 – Graphics and Image Processing  
 **Year**: 2021/2022 Batch  
