@@ -35,13 +35,7 @@ To design and implement an **image-based system** that:
 - 🏞️ **Background**: Plain background for better segmentation.
 - 💾 **Data Management**: Images stored with metadata (time, date).
 
-> Below are real images from our experimental setup:
-
-<p float="left">
-  <img src="readme_img/experimentsetup1.jpg" width="45%" alt="Acquisition Setup" />
-  <img src="readme_img/experimentsetup2.jpg" width="45%" alt="Acquisition Setup" />
-</p>
----
+<br>![Experimental Setup](readme_img/Experimental_Setup.png)
 
 ## ⚙️ Technologies Used
 
@@ -53,10 +47,11 @@ To design and implement an **image-based system** that:
 
 ## 📷 Image Processing Flow
 
-1. **Image Acquisition** ![Image Acquisition](readme_img/ImageAcquisition.png)
-2. **Preprocessing** (contrast, brightness) ![Preprocessing](readme_img/Preprocessing.png)
-3. **Segmentation** (thresholding, contour detection) ![Segmentation](readme_img/step3.png)
-4. **Feature Extraction** (leaf count, area, color analysis) ![Feature Extraction](readme_img/FeatureExtraction1.png)
+1. **Image Acquisition** <br>![Image Acquisition](readme_img/ImageAcquisition.png)
+
+2. **Preprocessing** (contrast, brightness, noise) ![Preprocessing](readme_img/Preprocessing.png)
+3. **Segmentation** (thresholding, contour detection) ![Segmentation](readme_img/Segmentation.png)
+4. **Feature Extraction** (leaf count, area, color analysis) ![Feature Extraction1](readme_img/FeatureExtraction1.png)<br>![Feature Extraction2](readme_img/FeatureExtraction2.png)
 5. **Graphical Analysis** (growth graphs over time)
 
 ---
@@ -67,7 +62,7 @@ To design and implement an **image-based system** that:
 - Visual tracking of growth rate day-by-day.
 - Detection of unhealthy patterns (yellow leaves, wilting).
   
-> ![Sample Graph](readme_img/results_graph.png)  
+> ![Sample Graph](readme_img/GraphicalAnalysis.png)  
 > _Growth vs Time – Based on Area Coverage_
 
 ---
@@ -75,7 +70,7 @@ To design and implement an **image-based system** that:
 ## 📊 Reports & Graphs
 
 - **Leaf Count Over Time**
-- **Growth Area vs Time**
+- **Plant Height vs Time**
 - **Health Trends (Color Analysis)**
 
 > Reports auto-generated and stored in /reports.
