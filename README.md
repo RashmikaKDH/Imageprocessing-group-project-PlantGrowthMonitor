@@ -38,8 +38,8 @@ To design and implement an **image-based system** that:
 > Below are real images from our experimental setup:
 
 <p float="left">
-  <img src="readme_img/setup_daytime.png" width="45%" alt="Daytime Acquisition Setup" />
-  <img src="readme_img/setup_nighttime.png" width="45%" alt="Nighttime Acquisition Setup" />
+  <img src="readme_img/experimentsetup1.jpg" width="45%" alt="Acquisition Setup" />
+  <img src="readme_img/experimentsetup2.jpg" width="45%" alt="Acquisition Setup" />
 </p>
 ---
 
@@ -99,11 +99,10 @@ To design and implement an **image-based system** that:
 
 ## 🧑‍💻 Author
 
-**Group Name**: UNIFY
-**University**: Rajarata University of Sri Lanka  
-**Course**: ICT2403 – Graphics and Image Processing  
-**Year**: 2021/2022 Batch  
-**GitHub**: [@yourusername](https://github.com/yourusername)
+- **Group Name**: UNIFY
+- **University**: Rajarata University of Sri Lanka  
+- **Course**: ICT2403 – Graphics and Image Processing  
+- **Year**: 2021/2022 Batch  
 
 ---
 ## 📜 License
