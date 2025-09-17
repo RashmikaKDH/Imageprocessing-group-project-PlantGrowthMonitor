@@ -1,4 +1,4 @@
-# 🌱 Monitoring Plant Growth in Controlled Environments
+# Monitoring Plant Growth in Controlled Environments
 
 ![Plant Growth Banner](readme_img/banner.png)
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 To design and implement an **image-based system** that:
 - Captures plant growth using time-lapse photography.
@@ -17,27 +17,27 @@ To design and implement an **image-based system** that:
 
 ---
 
-## 🛠️ Features
+## Features
 
-- 🌿 **Time-lapse Image Acquisition**
-- 🧪 Image Preprocessing (Correct Non-Uniform Illumination, Remove Impulse Noise, Remove Gaussian Noise, Edge Sharpening )
-- ✂️ Image Segmentation (isolate plant regions)
-- 📊 Visualization of growth metrics over time
-- ✅ Accuracy Evaluation of segmentation results
-- 📁 Organized data storage with consistent lighting & angle
+- **Time-lapse Image Acquisition**
+- Image Preprocessing (Correct Non-Uniform Illumination, Remove Impulse Noise, Remove Gaussian Noise, Edge Sharpening )
+- Image Segmentation (isolate plant regions)
+- Visualization of growth metrics over time
+- Accuracy Evaluation of segmentation results
+- Organized data storage with consistent lighting & angle
 
 ---
 
-## 🧪 Experimental Setup
+## Experimental Setup
 
-- 📷 **Camera Setup**: Fixed-position camera capturing at set intervals.
-- 💡 **Lighting**: Controlled light conditions to reduce shadow/noise.
-- 🏞️ **Background**: Plain background for better segmentation.
-- 💾 **Data Management**: Images stored with metadata (time, date).
+- **Camera Setup**: Fixed-position camera capturing at set intervals.
+- **Lighting**: Controlled light conditions to reduce shadow/noise.
+- **Background**: Plain background for better segmentation.
+- **Data Management**: Images stored with metadata (time, date).
 
 <br>![Experimental Setup](readme_img/Experimental_Setup.png)
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Language**: Python
 - **Libraries**: OpenCV, NumPy, Matplotlib
@@ -45,7 +45,7 @@ To design and implement an **image-based system** that:
 
 ---
 
-## 📷 Image Processing Flow
+## Image Processing Flow
 
 1. **Image Acquisition** <br>![Image Acquisition](readme_img/ImageAcquisition.png)
 
@@ -56,7 +56,7 @@ To design and implement an **image-based system** that:
 
 ---
 
-## 📈 Results
+## Results
 
 - Accurate leaf detection with 85%+ precision.
 - Visual tracking of growth rate day-by-day.
@@ -67,7 +67,7 @@ To design and implement an **image-based system** that:
 
 ---
 
-## 📊 Reports & Graphs
+## Reports & Graphs
 
 - **Leaf Count Over Time**
 - **Plant Height vs Time**
@@ -77,7 +77,7 @@ To design and implement an **image-based system** that:
 
 ---
 
-## 🧪 Evaluation & Accuracy
+## Evaluation & Accuracy
 
 - Manual leaf counting used to validate results.
 - Threshold adjustments improved detection consistency.
@@ -85,14 +85,14 @@ To design and implement an **image-based system** that:
 
 ---
 
-## 🔗 Additional Links
+## Additional Links
 
 - 📎 [Final Report PDF](docs/MINI PROJECT_FINAL REPORT_GROUP UNIFY.pdf)
 - 📎 [Presentation Slides](docs/PresentationSlide Group Unify.pdf)
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 - **Group Name**: UNIFY
 - **University**: Rajarata University of Sri Lanka  
@@ -100,6 +100,6 @@ To design and implement an **image-based system** that:
 - **Year**: 2021/2022 Batch  
 
 ---
-## 📜 License
+## License
 
 This project is part of academic coursework. Feel free to reference for educational use.
